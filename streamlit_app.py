@@ -10,7 +10,7 @@ helpful_links = [
 ]
 
 # Write directly to the app
-st.title(":cup_with_straw: Example of Streamlit App :cup_with_straw:")
+st.title("My Parents New Healthy Diner")
 st.write("Choose the fruits you want in your custom Smoothie!"
         )
 
