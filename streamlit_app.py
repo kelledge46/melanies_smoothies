@@ -11,7 +11,7 @@ helpful_links = [
 
 # Write directly to the app
 st.title("My Parents New Healthy Diner")
-st.write("Choose the fruits you want in your custom Smoothie!"
+st.write("Breakfast Menu"
         )
 
 
